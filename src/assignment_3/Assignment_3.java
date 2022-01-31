@@ -6,7 +6,7 @@ public class Assignment_3 {
        Rect one = new Rect(1,2,2,4);
        Date first = new Date(2000,5,25);
        Date seconed = new Date(2002,5,24);
-
+       
        int x = 8, y = 8;
        System.out.println(one.getCircumf());//prints circumf of original rect
        System.out.println(one.getArea());//prints area of origonal rect
